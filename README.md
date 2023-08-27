@@ -1,7 +1,5 @@
 # Issue Tracker
 
-Uncomment the MONGO_URI and NODE_ENV variables
-
 This 2/5 projects to get de Quality Assurance Certification from FreeCodeCamp "Issue Tracker"
 
 This is the boilerplate for the Issue Tracker project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/issue-tracker
